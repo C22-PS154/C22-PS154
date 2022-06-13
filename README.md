@@ -7,12 +7,12 @@
 Kukus is an application that can help people to control their diet plans.
           
 **Created by Group C22-PS154 Bangkit Academy**
-1. Muhammad Daffa Ajiputra - Universitas Indonesia - Machine Learning
-2. Abdul Fatah - Universitas Muhammadiyah Prof Dr Hamka - Machine Learning
-3. Mohammad Arkan Ridhwan R. - Universitas Brawijaya - Mobile Development
-4. Wahid Fattahillah - Universitas Amikom Yogyakarta - Mobile Development
-5. Fauzan Deri Syawalino - Universitas Indonesia - Cloud Computing
-6. Yovan Yudhistira W. - Universitas Indonesia - Cloud Computing
+1. Muhammad Daffa Ajiputra(M2010F1130) - Universitas Indonesia - Machine Learning
+2. Abdul Fatah(M2262G2270) - Universitas Muhammadiyah Prof Dr Hamka - Machine Learning
+3. Mohammad Arkan Ridhwan R.(A7006F0641) - Universitas Brawijaya - Mobile Development
+4. Wahid Fattahillah(A7183G1765) - Universitas Amikom Yogyakarta - Mobile Development
+5. Fauzan Deri Syawalino(C7010F1127) - Universitas Indonesia - Cloud Computing
+6. Yovan Yudhistira W.(C2010F1133) - Universitas Indonesia - Cloud Computing
 
 ## Installation
 1. Download the apk file [here](https://drive.google.com/file/d/1Ajjjd_rPTv4AIlAe4kmLGHPZ8FKBEph3/view?usp=sharing)
