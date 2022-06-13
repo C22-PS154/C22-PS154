@@ -4,7 +4,8 @@
   <img src="https://user-images.githubusercontent.com/106865783/173259816-f3f8ee19-e226-4e06-82b4-7aff4f169f3a.png" width="200">
 </p>
 
-Kukus is an application that can help people to control their diet plans.
+Kukus is an application that can help people to control their diet plans, with Food detection feature that can help you to know calory size of the food.
+With kukus you can share you healty life style, exercise and healthy food tips.
           
 **Created by Group C22-PS154 Bangkit Academy**
 1. Muhammad Daffa Ajiputra(M2010F1130) - Universitas Indonesia - Machine Learning
