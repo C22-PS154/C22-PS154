@@ -16,7 +16,7 @@ With kukus you can share you healty life style, exercise and healthy food tips.
 6. Yovan Yudhistira W.(C2010F1133) - Universitas Indonesia - Cloud Computing
 
 ## Installation
-1. Download the apk file [here](https://drive.google.com/file/d/1Ajjjd_rPTv4AIlAe4kmLGHPZ8FKBEph3/view?usp=sharing)
+1. Download the apk file [here](https://drive.google.com/file/d/1wlLoN3v57wi-UyWm4kJnG7gz3ldQ46De/view?usp=sharing)
 2. Make sure you're allowing installation from another source in your phone. Then, install the app
 
 ## How to use the application
