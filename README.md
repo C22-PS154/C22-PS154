@@ -30,7 +30,7 @@ With kukus you can share you healty life style, exercise and healthy food tips.
 
 ### Screenshoot of the application
 <p align="center">
-    <img src = "https://user-images.githubusercontent.com/106865783/173261041-2f1ee7a2-f1e2-428d-9035-fb1bc9b81ac7.png" width="200">
+    <img src = "https://user-images.githubusercontent.com/106865783/173271572-57a3389d-8d65-4ce9-889a-eba45f2b1e8e.png" width="200">
     <img src = "https://user-images.githubusercontent.com/106865783/173261610-bff051a0-7906-4cb8-96a5-e3f62e7c4653.png" width="200">
     <img src = "https://user-images.githubusercontent.com/106865783/173261947-7f0ac171-ff27-421a-98e9-ab1249aa38fe.png" width="200">
     <img src = "https://user-images.githubusercontent.com/106865783/173261960-0dfd2ea8-0fea-45d2-9351-52d17fa1bce4.png" width="200">
